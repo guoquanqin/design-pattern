@@ -1,4 +1,4 @@
-package com.example.designpattern.SingletonPattern;
+package com.example.designpattern.singleton;
 
 /**
  * 双重检查
