@@ -1,4 +1,4 @@
-package com.example.designpattern.prototype;
+package com.example.designpattern.create.prototype;
 
 import lombok.extern.slf4j.Slf4j;
 

@@ -1,4 +1,4 @@
-package com.example.designpattern.singleton;
+package com.example.designpattern.create.singleton;
 
 /**
  * 懒汉，线程不安全

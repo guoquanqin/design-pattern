@@ -1,4 +1,4 @@
-package com.example.designpattern.factory.simple;
+package com.example.designpattern.create.factory.simple;
 
 /**
  * 简单工厂

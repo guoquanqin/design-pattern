@@ -1,4 +1,4 @@
-package com.example.designpattern.factory.method;
+package com.example.designpattern.create.factory.method;
 
 /**
  * 工厂方法模式
