@@ -1,4 +1,4 @@
-package com.example.designpattern.structure;
+package com.example.designpattern.structure.proxy;
 
 /**
  * TODO 添加类的描述

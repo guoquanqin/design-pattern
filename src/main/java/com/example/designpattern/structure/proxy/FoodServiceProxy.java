@@ -1,4 +1,4 @@
-package com.example.designpattern.structure;
+package com.example.designpattern.structure.proxy;
 
 /**
  * 代理要表现得“就像是”真实实现类，所以需要实现 FoodService

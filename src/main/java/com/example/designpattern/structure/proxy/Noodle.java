@@ -1,4 +1,4 @@
-package com.example.designpattern.structure;
+package com.example.designpattern.structure.proxy;
 
 import lombok.Data;
 
@@ -9,6 +9,6 @@ import lombok.Data;
  * @version 1.0, 2021/10/10 10:47
  */
 @Data
-public class Chicken extends Food{
+public class Noodle extends Food{
 
 }

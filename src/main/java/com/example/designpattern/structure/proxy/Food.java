@@ -1,4 +1,4 @@
-package com.example.designpattern.structure;
+package com.example.designpattern.structure.proxy;
 
 import lombok.Data;
 
