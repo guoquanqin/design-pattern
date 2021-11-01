@@ -1,15 +1,15 @@
-package com.example.designpattern.structure.component;
+package com.example.designpattern.structure.decorator;
 
 /**
- * 绿茶
+ * 红茶
  *
  * @author guoquanqin
  * @version 1.0, 2021/11/1 11:47
  */
-public class GreenTea extends Beverage{
+public class BlackTea extends Beverage{
     @Override
     public String getDescription() {
-        return "绿茶";
+        return "红茶";
     }
 
     @Override

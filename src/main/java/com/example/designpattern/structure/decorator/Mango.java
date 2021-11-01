@@ -1,4 +1,4 @@
-package com.example.designpattern.structure.component;
+package com.example.designpattern.structure.decorator;
 
 /**
  * TODO 添加类的描述

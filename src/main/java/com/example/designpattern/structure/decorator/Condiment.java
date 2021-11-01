@@ -1,4 +1,4 @@
-package com.example.designpattern.structure.component;
+package com.example.designpattern.structure.decorator;
 
 /**
  * 调料
